@@ -51,12 +51,6 @@ Merhaba! Ben **Xary796**, disiplinli ve meraklı bir geliştiriciyim. Yazılım 
 
 ---
 
-## 📫 Bana Ulaşmak İçin
-
-- 📬 Mail: `xary796@example.com`
-- 💼 LinkedIn: yakında...
-- 🗂️ Projelerim: GitHub reposlarımda aktif!
-
 ---
 
 <p align="center">
